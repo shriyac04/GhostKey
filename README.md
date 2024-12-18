@@ -90,7 +90,7 @@ i686-w64-mingw32-gcc -o malware.exe backdoor.c -lwsock32 -lwininet
 * Download an ico file for logo of archieved .exe file. 
 
  ## About Me
-This project is my first attempt at malware development, created purely for learning purposes. I developed this project with the help of online resources and tutorials, including YouTube videos, to gain a deeper understanding of how backdoors and servers function in the context of penetration testing.
+This project is my first attempt at malware development, created purely for learning purposes. I developed this project with the help of online resources and tutorials, including YouTube videos (Special thanks! to Vabs Tutorials) , to gain a deeper understanding of how backdoors and servers function in the context of penetration testing.
 
 As a beginner in malware development, this project reflects my initial exploration into this domain and showcases fundamental concepts like socket programming, persistence mechanisms, and keylogging.
 
