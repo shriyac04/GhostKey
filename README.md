@@ -1,5 +1,10 @@
 # GhostKey-Backdoor and Server for Ethical Hacking and Penetration Testing
 
+## About Me
+This project is my first attempt at malware development, created purely for learning purposes. I developed this project with the help of online resources and tutorials, including YouTube videos, to gain a deeper understanding of how backdoors and servers function in the context of penetration testing.
+
+As a beginner in malware development, this project reflects my initial exploration into this domain and showcases fundamental concepts like socket programming, persistence mechanisms, and keylogging.
+
 ## Overview
 
 This repository contains a **backdoor program** and its corresponding **server** implementation, designed for ethical hacking purposes. These programs demonstrate how attackers establish connections, execute commands, and persist on a target system andit.
