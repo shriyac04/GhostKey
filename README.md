@@ -13,7 +13,7 @@ This repository contains a **backdoor program** and its corresponding **server**
 
 >**Compatibility:** The backdoor program is designed to work on **Windows 10** machines,while the server can run on a **Linux** system. The backdoor uses Windows-specific libraries,including **ws
 
-### Development Plan (`malwareplan.txt`)
+### Development Plan 
 1. Establish a connection with the server.
 2. Implement a shell function to handle incoming commands.
 3. Ensure automatic startup after a system reboot.
