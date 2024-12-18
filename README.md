@@ -1,4 +1,4 @@
-# GhostKey-Backdoor and Server for Ethical Hacking and Penetration Testing
+# GhostKey-Basic Backdoor and Server prototype for Ethical Hacking and Penetration Testing
 
 ## Overview
 
