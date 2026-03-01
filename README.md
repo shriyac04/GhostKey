@@ -86,6 +86,10 @@ i686-w64-mingw32-gcc -o malware.exe backdoor.c -lwsock32 -lwininet
 
 5. Transfer the **malware.exe** to the target **Windows 10** machine and run it.
 
+6. Start the server in your host system:
+'''c
+./server
+'''
 ### Disguising your malware
 * You may choose any image or any file ,example excel,pdf,word etc.
 * Download an ico file for logo of archieved .exe file. 
